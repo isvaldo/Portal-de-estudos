@@ -3,9 +3,11 @@ Portal-de-estudos
 Projeto em desenvolvimento..
 ===
 ==============================================================
-Regras
-==
 
-* Para resolver qualquer problema(issue) crie um branch
-* PR no master somente a partir do develop
-* PR no develop somente se problema(issue) for totalmente concluida
+## Como ajudar ?
+
+1. Faça um Fork  no projeto!
+2. Crie um branch com sua colaboração: `git checkout -b minha-colaboracao`
+3. Commit suas alterações: `git commit -am 'fiz isso, alterei isso..'`
+4. de Push no  branch: `git push origin minha-colaboraca`
+5. Faça um pull request (:
