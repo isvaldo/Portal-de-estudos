@@ -1,5 +1,3 @@
-Portal-de-estudos
-===
 Projeto em desenvolvimento..
 ===
 ==============================================================
