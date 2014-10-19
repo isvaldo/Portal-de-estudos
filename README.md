@@ -1,4 +1,11 @@
 Portal-de-estudos
-=================
+===
+Projeto em desenvolvimento..
+===
+==============================================================
+Regras
+==
 
-Sistema para organizar conteúdo acadêmico produzido no youtube 
+* Para resolver qualquer problema(issue) crie um brach
+* PR no master somente a partir do develop
+* PR no develop somente se problema(issue) for totalmente concluida
